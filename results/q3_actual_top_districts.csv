@@ -1,0 +1,16 @@
+CALL_TYPE,COUNCIL_DISTRICT__C,actual,in_forecast
+Street Chuckhole,25,1695,False
+Street Chuckhole,1,1248,True
+Street Chuckhole,2,1106,True
+Street Chuckhole,20,1027,False
+Street Chuckhole,16,1022,False
+Trash Dumping/Accumulation,17,306,True
+Trash Dumping/Accumulation,12,276,True
+Trash Dumping/Accumulation,11,231,True
+Trash Dumping/Accumulation,16,211,True
+Trash Dumping/Accumulation,21,160,True
+Stolen Trash Cart,17,254,True
+Stolen Trash Cart,12,234,True
+Stolen Trash Cart,11,157,True
+Stolen Trash Cart,21,143,True
+Stolen Trash Cart,16,122,False

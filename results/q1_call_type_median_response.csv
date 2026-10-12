@@ -1,0 +1,114 @@
+KEYWORD__C,SUBCATEGORY__C,median_days,cases
+sidewalks/curbs,broken,1458.4739525462962,2610
+streets,raised uneven surface,1213.0228472222223,2212
+streets and alley repair,raised uneven surface,1109.9618287037038,379
+new construction,new sidewalk,1054.4400462962963,374
+graffiti: public/private property,public property (graffiti),847.6153877314815,368
+streets and alley repair,berm,810.8121643518518,1030
+new construction,street resurfacing,629.4469328703703,2837
+streets,repair or install speed bump,555.0366087962963,1408
+alley,brush/vegetation removal,550.7716666666666,801
+chuckhole,berm,517.3505902777778,1603
+alley,ruts/grade,483.50366319444447,830
+chuckhole,alley (chuckhole),426.3221412037037,4183
+operation night light,new light request,397.6135300925926,3515
+forestry,brush remove,328.20359953703706,3577
+ongoing construction,project concerns,216.0823611111111,2327
+signs/traffic signs,remove,157.48055555555555,660
+traffic signals,new request,148.3159375,667
+streets and alley repair,street (chuckhole),142.7439988425926,6778
+forestry,tree prune,142.0694675925926,3704
+forestry,tree/brush obstructing view,111.78207175925925,4517
+weeds,public property (complaint),91.44789351851851,2666
+ceg referral,requests to dpw from ceg,89.96502893518519,1178
+forestry,tree remove,88.90658564814815,5282
+signs/traffic signs,request (signs),78.64616319444444,7662
+parks,park trash,52.88831018518518,499
+signs/traffic signs,obstructed view,44.236979166666664,1865
+graffiti,public property (graffiti),43.44204282407407,1756
+parks,playground equipment,41.94146990740741,597
+forestry,broken hanging limb,40.91543981481482,1938
+disability,disability request,39.08120370370371,959
+snow/ice,plow/salt request (thoroughfare),33.09892361111111,4086
+streets,depression,25.61466435185185,715
+forestry,tree debris,22.10474537037037,3256
+streets,cave in,21.01724537037037,5536
+basketball goal,basketball goal,18.046724537037036,864
+streets,painting,13.979814814814814,2387
+forestry,tree down,13.933530092592592,3665
+trash,96 gal cart - buy,13.90755787037037,10793
+trash,freon,10.822696759259259,3229
+signs/traffic signs,street name,9.753877314814815,735
+chuckhole,street (chuckhole),9.28890625,194026
+trash,96 gal cart - new request,8.956313657407408,6484
+debris/litter,debris in alley/street,8.054403935185185,9778
+infrastructure violation,drainage,7.688043981481481,989
+trash,recycling new service,7.6497974537037035,3234
+trash,96 gal cart - stolen,6.812835648148148,41927
+trash,96 gal cart - other,6.719265046296297,35108
+signs/traffic signs,missing or damaged signs,5.126273148148148,6626
+abandoned vehicle,alley (abv),4.005,519
+abandoned vehicle,street (abv),4.004884259259259,13035
+abandoned vehicle,street/alley (abv),4.004699074074074,35880
+traffic signals,light out,3.810769675925926,3686
+streets,standing water (st),3.763738425925926,726
+traffic signals,synchronization/timing off,3.756059027777778,7344
+infrastructure violation,right of way,3.7261516203703704,436
+zoning violation,swimming pool,2.8933217592592593,767
+illegal dumping,dumped materials,2.8340277777777776,7333
+traffic signals,pedestrian unit,2.7972106481481482,1541
+zoning violation,landscaping,2.7465625,1775
+trash,property damage,2.7308101851851854,345
+zoning violation,material storage,2.525289351851852,3045
+abandoned vehicle,residence (abv),2.5153819444444445,5003
+signs/traffic signs,stop sign,2.510925925925926,3717
+zoning violation,residential auto repair,2.3178819444444443,2008
+illegal dumping,junk/trash nuisance property,2.313744212962963,8646
+contractor,general,2.296226851851852,1622
+zoning violation,business in residential,2.205972222222222,3613
+zoning violation,business unzoned,2.1962847222222224,2513
+traffic signals,signal head,2.1419444444444444,469
+zoning violation,fence/wall,2.0542303240740742,2252
+zoning violation,development standards,2.0050694444444446,9660
+graffiti,private property (graffiti),1.9745833333333334,1604
+zoning violation,commercial vehicle storage,1.9723958333333333,6209
+zoning violation,sale motor vehicle,1.9620949074074074,1384
+zoning violation,variance/rezone,1.9361284722222223,1654
+abandoned vehicle,private property (abv),1.9131828703703704,14847
+traffic signals,stuck,1.8694675925925925,1079
+zoning violation,insufficient parking,1.8679861111111111,3393
+traffic signals,knocked down (traffic signals),1.8451388888888889,437
+unsafe buildings,boarding,1.8164988425925925,9530
+illegal dumping and junk/trash,trash accumulation or dumped materials,1.780775462962963,47541
+unsafe buildings,unsafe conditions,1.7699421296296296,10183
+zoning violation,signs,1.7504861111111112,7478
+trash,hand collection (block),1.7441030092592593,1064
+animal,dead,1.7172685185185186,17880
+trash,hand collection (missed),1.5521643518518518,1853
+trash,heavy,1.3051273148148148,15849
+trash,96 gal trash (block),1.2878125,18561
+traffic signals,flashing,1.2052662037037036,3397
+traffic signals,black out,1.1925694444444443,1097
+animal,abuse,1.1686979166666667,17456
+trash,leaves,1.1646064814814814,1409
+environmental concern,open burning,1.1209837962962963,1343
+trash,96 gal trash (missed),1.1085416666666668,25769
+animal,stray (confined),1.0951793981481481,6426
+weeds,private property (complaint),1.0041145833333334,93318
+manhole,missing/damaged manhole lid,0.9861111111111112,437
+trash,complaint/crew,0.9284606481481481,7794
+animal,owned aggressive animal running at large,0.921417824074074,4428
+animal,animal attack,0.8369733796296296,2240
+animal,human attack (bite),0.7391203703703704,2367
+animal,stray (aggressive),0.6195717592592592,9551
+animal,owned animal running at large,0.5967824074074074,2652
+animal,stray (roam),0.5608333333333333,16115
+animal,abandoned,0.4454050925925926,5173
+animal,curbing,0.26373842592592595,2145
+animal,noise (animal),0.1698090277777778,10676
+animal,stray (sick),0.08226851851851852,1143
+animal,immediate danger of death,0.08161458333333334,2696
+animal,wild (sick/injured),0.0815625,2381
+animal,at/near school or daycare,0.08137152777777777,558
+animal,stray (injured),0.07853587962962963,4098
+animal,wild (confined),0.07691550925925926,908

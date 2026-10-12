@@ -1,0 +1,8 @@
+step,rows_before,rows_dropped,rows_after,pct_dropped,reason
+raw,1220121,0,1220121,0.0,rows in mac_legacy_service_cases.csv
+cutoff,1220121,283728,936393,23.2541,"cases created on or after August 01, 2022; excluded from every analysis"
+closed status,936393,21496,914897,2.2956,keep STATUS == closed for the closed-case table
+closed missing dates,914897,6,914891,0.0007,closed cases missing CREATEDDATE or CLOSEDDATE; excluded from every closed-case analysis
+open missing created date,21496,1,21495,0.0047,open cases missing CREATEDDATE; excluded from every open + closed analysis
+open + closed,936386,0,936386,0.0,closed + open cases combined
+missing call type or district,936386,19956,916430,2.1312,"forecast and district tables need a created date, call type and council district"

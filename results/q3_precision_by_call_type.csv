@@ -1,0 +1,4 @@
+CALL_TYPE,true_positives,false_positives,precision
+Street Chuckhole,2,3,0.4
+Trash Dumping/Accumulation,5,0,1.0
+Stolen Trash Cart,4,1,0.8

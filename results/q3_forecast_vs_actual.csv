@@ -1,0 +1,16 @@
+CALL_TYPE,COUNCIL_DISTRICT__C,projected,true_positive,actual,abs_error
+Street Chuckhole,2,916.1666666666666,True,1106,189.83333333333337
+Street Chuckhole,11,810.3333333333334,False,844,33.66666666666663
+Street Chuckhole,1,758.3333333333334,True,1248,489.66666666666663
+Street Chuckhole,9,751.8333333333334,False,649,102.83333333333337
+Street Chuckhole,17,744.5,False,851,106.5
+Trash Dumping/Accumulation,17,239.5,True,306,66.5
+Trash Dumping/Accumulation,12,232.33333333333334,True,276,43.66666666666666
+Trash Dumping/Accumulation,11,127.66666666666667,True,231,103.33333333333333
+Trash Dumping/Accumulation,16,118.5,True,211,92.5
+Trash Dumping/Accumulation,21,110.66666666666667,True,160,49.33333333333333
+Stolen Trash Cart,17,259.5,True,254,5.5
+Stolen Trash Cart,12,213.33333333333334,True,234,20.666666666666657
+Stolen Trash Cart,11,164.0,True,157,7.0
+Stolen Trash Cart,21,122.5,True,143,20.5
+Stolen Trash Cart,9,100.5,False,102,1.5

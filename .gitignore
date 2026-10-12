@@ -1,0 +1,18 @@
+# Data: the raw export is ~230 MB and processed files are rebuilt by src/clean.py
+data/raw/
+data/processed/
+*.part
+
+# Original working folder (scripts and data from before the restructure), kept locally only
+datasets/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+.Rhistory
+.Rproj.user/

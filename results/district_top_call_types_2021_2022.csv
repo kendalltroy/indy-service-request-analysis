@@ -1,0 +1,16 @@
+call_type,call_type_cases,rank,council_district,district_cases,district_share,peak_month
+Street Chuckhole,52424,1,25,4030,0.07687318785289181,March
+Street Chuckhole,52424,2,1,3434,0.06550434915305967,March
+Street Chuckhole,52424,3,2,2952,0.05631008698306119,March
+Weeds: Private Property,19021,1,17,2758,0.1449976341937858,May
+Weeds: Private Property,19021,2,11,2026,0.10651385310972084,May
+Weeds: Private Property,19021,3,12,1587,0.08343409915356712,May
+Trash Dumping/Accumulation,14313,1,12,2354,0.16446587018794104,March
+Trash Dumping/Accumulation,14313,2,17,2200,0.15370642073639348,March
+Trash Dumping/Accumulation,14313,3,11,1458,0.10186543701530078,March
+Abandoned Vehicle: Street/Alley,12536,1,17,1660,0.13241863433312062,July
+Abandoned Vehicle: Street/Alley,12536,2,12,1622,0.1293873643905552,July
+Abandoned Vehicle: Street/Alley,12536,3,11,1149,0.09165603063178047,July
+Stolen Trash Cart,9582,1,17,1782,0.1859737006887915,March
+Stolen Trash Cart,9582,2,12,1505,0.15706533082863702,March
+Stolen Trash Cart,9582,3,11,1076,0.11229388436652056,March
