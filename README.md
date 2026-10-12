@@ -78,7 +78,7 @@ All dates are converted from UTC to Indianapolis time, so a case reported on a w
 
 ## Full report
 
-The written report with methods and discussion is in [`reports/`](reports/) ([PDF](reports/mac-service-cases-report.pdf)).
+The written report with methods and discussion can be found here: [`reports/`](reports/).
 
 ## About
 
